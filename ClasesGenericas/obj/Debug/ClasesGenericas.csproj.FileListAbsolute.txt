@@ -1,0 +1,7 @@
+C:\GitHubRepos\ClasesGenericas\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe.config
+C:\GitHubRepos\ClasesGenericas\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.exe
+C:\GitHubRepos\ClasesGenericas\ClasesGenericas\ClasesGenericas\bin\Debug\ClasesGenericas.pdb
+C:\GitHubRepos\ClasesGenericas\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csprojAssemblyReference.cache
+C:\GitHubRepos\ClasesGenericas\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\ClasesGenericas\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.exe
+C:\GitHubRepos\ClasesGenericas\ClasesGenericas\ClasesGenericas\obj\Debug\ClasesGenericas.pdb
